@@ -2,7 +2,7 @@
 ![](./img.png)
 
 ## Introduction
-The construction of the OpenAnnotate backend requires great efforts and can hardly be deployed in an ordinary server or workstation. Briefly, in order to construct the OpenAnnotate backend, one needs 1) **elaborate chromatin accessibility data preprocessing** for high-frequency data read operation, 2) **sophisticated multithreaded program** tailored to the preprocessed data, and 3) **high-performance computer** to maximize the program efficiency. 
+The construction of the OpenAnnotate backend requires great efforts and can hardly be deployed on an ordinary server or workstation. Briefly, in order to construct the OpenAnnotate backend, one needs 1) **elaborate chromatin accessibility data preprocessing** for high-frequency data read operation, 2) **sophisticated multithreaded program** tailored to the preprocessed data, and 3) **high-performance computer** to maximize the program efficiency. 
 
 For step one, given more than 26 TB BAM and BED files containing reads and peaks, the data preprocessing includes 7 major steps to convert the 2729 chromatin accessibility samples to over 2.3 TB binary files with the tailored data structure. It costs more than a week to preprocess all the data even with 15 computing nodes in our high-performance computing cluster. For steps two and three, the multithreaded program is designed to be run on a computer with high-performance processors and ultra-high performance storage. For example, the current version of the OpenAnnotate program was deployed on a server with two Intel scalable processors (56 hyper-threads in total), 768 GB RAM, and 480 TB storage space. In addition, two 2TB Samsung 980 PRO SSDs, each of which can achieve sequential read/write speed up to 7000/5100 MB/s and random read/write speed of 1000K IOPS (queue depth 32 with 16 threads), were adopted to cache hard drives for supporting intensive reading and writing operations. It is therefore clear that **the cooperation of the hardware and the software is indispensable** in order to achieve the high performance as described in the paper, which suggests the significance and irreplaceability of our work. 
 
@@ -12,8 +12,8 @@ For step one, given more than 26 TB BAM and BED files containing reads and peaks
 ```
 OpenLDAP for identity management
 Slurm with partitions named 'normal'
-Libraries including lz4, bzlib and lzma
 GCC with versions of 4.8.5 or 5.4.0 (tested)
+Libraries including pthread, gzip, lz4, bzlib and lzma
 ```
 
 ## Preprocess data for the OpenAnnotate program
