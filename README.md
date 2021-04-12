@@ -49,7 +49,7 @@ To demonstrate the usage of OpenAnnotate program, we have uploaded the processed
 ## Installation of OpenAnnotate program
 Install OpenAnnotate from GitHub via
 ```
-git clone git://github.com/JiangLab/OpenAnnotate.git
+git clone git://github.com/RJiangLab/OpenAnnotate.git
 cd OpenAnnotate
 make
 ```
