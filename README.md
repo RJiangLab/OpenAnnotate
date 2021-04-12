@@ -69,7 +69,7 @@ cp tmp/gcc-5.4.0/bin/openanno bins/
 ```
 The annotation results will be save in the **test/** directory. 
 
-Note that we only uploaded the processed binary data of human-hg19-atac-chrM for demonstration. It will arise errors if the input-file contains genomic regions of other chromosomes.
+Note that we only uploaded the processed binary data of human-hg19-atac-chrM for demonstration. It will raise errors if the input-file contains genomic regions of other chromosomes.
 
 ### Input
 
