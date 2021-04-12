@@ -1,0 +1,89 @@
+ENCFF350EWF	ENCFF350EWF	ENCFF350EWF	ENCBS353ZPN	ENCSR074AHH	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF426DGP	ENCFF426DGP	ENCFF426DGP	ENCBS998NWZ	ENCSR074AHH	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF766EGP	ENCFF766EGP	ENCFF766EGP	ENCBS435CFB	ENCSR074AHH	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF020COS	ENCFF020COS	ENCFF020COS	ENCBS542BDV	ENCSR139OYS	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF758ORC	ENCFF758ORC	ENCFF758ORC	ENCBS017CJM	ENCSR139OYS	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF809EKV	ENCFF809EKV	ENCFF809EKV	ENCBS211HEU	ENCSR139OYS	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF248HDS	ENCFF248HDS	ENCFF248HDS	ENCBS565TIR	ENCSR220ASC	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF597SLV	ENCFF597SLV	ENCFF597SLV	ENCBS586UFT	ENCSR220ASC	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF978DQZ	ENCFF978DQZ	ENCFF978DQZ	ENCBS213TPT	ENCSR220ASC	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF349HIL	ENCFF349HIL	ENCFF349HIL	ENCBS533ZLP	ENCSR265ZXX	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF714SLY	ENCFF714SLY	ENCFF714SLY	ENCBS301SWX	ENCSR265ZXX	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF739AIR	ENCFF739AIR	ENCFF739AIR	ENCBS404OUV	ENCSR265ZXX	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF210BHM	ENCFF210BHM	ENCFF210BHM	ENCBS402NSI	ENCSR288YMH	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF214ASZ	ENCFF214ASZ	ENCFF214ASZ	ENCBS360YMB	ENCSR288YMH	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF590QJA	ENCFF590QJA	ENCFF590QJA	ENCBS006KFZ	ENCSR288YMH	EFO:0001086	A549	Lung	Lung	Respiratory system	Respiratory system
+ENCFF436NOT	ENCFF436NOT	ENCFF436NOT	ENCBS063ABX	ENCSR113MBR	UBERON:0002369	Adrenal gland	Adenal	Adenal	Endocrine system	Endocrine system
+ENCFF374OSU	ENCFF374OSU	ENCFF374OSU	ENCBS055JKA	ENCSR414DVK	UBERON:0002369	Adrenal gland	Adenal	Adenal	Endocrine system	Endocrine system
+ENCFF711SUI	ENCFF711SUI	ENCFF711SUI	ENCBS693ETI	ENCSR548KIL	UBERON:0002369	Adrenal gland	Adenal	Adenal	Endocrine system	Endocrine system
+ENCFF830XMY	ENCFF830XMY	ENCFF830XMY	ENCBS799DMW	ENCSR152PSA	UBERON:0001150	Body of pancreas	Pancreas	Pancreas	Digestive system	Digestive system
+ENCFF388DNI	ENCFF388DNI	ENCFF388DNI	ENCBS372UUZ	ENCSR515CDW	UBERON:0001150	Body of pancreas	Pancreas	Pancreas	Digestive system	Digestive system
+ENCFF829XME	ENCFF829XME	ENCFF829XME	ENCBS867VCV	ENCSR765MXG	UBERON:0001150	Body of pancreas	Pancreas	Pancreas	Digestive system	Digestive system
+ENCFF135RTS	ENCFF135RTS	ENCFF135RTS	ENCBS425WFZ	ENCSR773USD	UBERON:0001150	Body of pancreas	Pancreas	Pancreas	Digestive system	Digestive system
+ENCFF585YAB	ENCFF585YAB	ENCFF585YAB	ENCBS114DQJ	ENCSR654UYP	UBERON:0008367	Breast epithelium	Breast	Breast	Integumentary system	Integumentary system
+ENCFF482CAN	ENCFF482CAN	ENCFF482CAN	ENCBS824TRN	ENCSR846ZBX	UBERON:0008367	Breast epithelium	Breast	Breast	Integumentary system	Integumentary system
+ENCFF656OYT	ENCFF656OYT	ENCFF656OYT	ENCBS748DLA	ENCSR955JSO	UBERON:0008367	Breast epithelium	Breast	Breast	Integumentary system	Integumentary system
+ENCFF114WRE	ENCFF114WRE	ENCFF114WRE	ENCBS726RZP	ENCSR802GEV	UBERON:0002037	Cerebellum	Brain	Brain	Nervous system	Nervous system
+ENCFF900AMT	ENCFF900AMT	ENCFF900AMT	ENCBS702KSL	ENCSR584AXZ	UBERON:0001621	Coronary artery	Vessel	Vessel	Circulatory system	Circulatory system
+ENCFF762MNF	ENCFF762MNF	ENCFF762MNF	ENCBS412WFM	ENCSR609GST	UBERON:0004648	Esophagus muscularis mucosa	Esophagus	Esophagus	Digestive system	Digestive system
+ENCFF846JID	ENCFF846JID	ENCFF846JID	ENCBS969YPI	ENCSR096BPX	UBERON:0006920	Esophagus squamous epithelium	Esophagus	Esophagus	Digestive system	Digestive system
+ENCFF592ALR	ENCFF592ALR	ENCFF592ALR	ENCBS024RNH	ENCSR158XTU	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF784DSJ	ENCFF784DSJ	ENCFF784DSJ	ENCBS924PBK	ENCSR158XTU	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF205KDV	ENCFF205KDV	ENCFF205KDV	ENCBS299ONK	ENCSR245LNF	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF479UTZ	ENCFF479UTZ	ENCFF479UTZ	ENCBS079LRU 	ENCSR245LNF	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF629VEK	ENCFF629VEK	ENCFF629VEK	ENCBS819VZU	ENCSR247PVM	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF927PPE	ENCFF927PPE	ENCFF927PPE	ENCBS839SEF	ENCSR247PVM	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF799HAR	ENCFF799HAR	ENCFF799HAR	ENCBS982NWD	ENCSR290YMN	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF907NVD	ENCFF907NVD	ENCFF907NVD	ENCBS821VLO	ENCSR290YMN	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF111ULL	ENCFF111ULL	ENCFF111ULL	ENCBS538XZS	ENCSR356KRQ	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF654ZNI	ENCFF654ZNI	ENCFF654ZNI	ENCBS666IIR	ENCSR356KRQ	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF049DWX	ENCFF049DWX	ENCFF049DWX	ENCBS408RGJ	ENCSR460DKJ	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF429JLL	ENCFF429JLL	ENCFF429JLL	ENCBS257OKQ	ENCSR460DKJ	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF217OUE	ENCFF217OUE	ENCFF217OUE	ENCBS081FMT	ENCSR521RAL	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF832AIE	ENCFF832AIE	ENCFF832AIE	ENCBS870NXI	ENCSR521RAL	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF678AIF	ENCFF678AIF	ENCFF678AIF	ENCBS242GKJ	ENCSR572UDP	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF885IPV	ENCFF885IPV	ENCFF885IPV	ENCBS903GAF	ENCSR572UDP	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF305PRP	ENCFF305PRP	ENCFF305PRP	ENCBS194HUS	ENCSR649RCV	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF607XLB	ENCFF607XLB	ENCFF607XLB	ENCBS797AGG	ENCSR649RCV	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF468QNB	ENCFF468QNB	ENCFF468QNB	ENCBS927PYN	ENCSR677MJF	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF764CQI	ENCFF764CQI	ENCFF764CQI	ENCBS978XWC	ENCSR677MJF	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF374VWZ	ENCFF374VWZ	ENCFF374VWZ	ENCBS135YLX	ENCSR798IJQ	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF588PIS	ENCFF588PIS	ENCFF588PIS	ENCBS389AUD	ENCSR798IJQ	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF787DUW	ENCFF787DUW	ENCFF787DUW	ENCBS623QHX	ENCSR923WGJ	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF912HGK	ENCFF912HGK	ENCFF912HGK	ENCBS473PMP	ENCSR923WGJ	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF372HEU	ENCFF372HEU	ENCFF372HEU	ENCBS616IKM	ENCSR939WVU	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF739KYO	ENCFF739KYO	ENCFF739KYO	ENCBS379WNC	ENCSR939WVU	CL:1001606	Foreskin keratinocyte	Skin	Skin	Integumentary system	Integumentary system
+ENCFF858PLS	ENCFF858PLS	ENCFF858PLS	ENCBS168UHK	ENCSR258JCL	UBERON:0011907	Gastrocnemius medialis	Muscle	Muscle	Musculoskeletal system	Musculoskeletal system
+ENCFF478ARL	ENCFF478ARL	ENCFF478ARL	ENCBS291EBC	ENCSR308HPZ	UBERON:0011907	Gastrocnemius medialis	Muscle	Muscle	Musculoskeletal system	Musculoskeletal system
+ENCFF086TID	ENCFF086TID	ENCFF086TID	ENCBS429IGV	ENCSR689SDA	UBERON:0011907	Gastrocnemius medialis	Muscle	Muscle	Musculoskeletal system	Musculoskeletal system
+ENCFF768UMR	ENCFF768UMR	ENCFF768UMR	ENCBS668EWD	ENCSR823ZCR	UBERON:0011907	Gastrocnemius medialis	Muscle	Muscle	Musculoskeletal system	Musculoskeletal system
+ENCFF293BRN	ENCFF293BRN	ENCFF293BRN	ENCBS728DKU	ENCSR260ZIV	UBERON:0004550	Gastroesophageal sphincter	Esophagus	Esophagus	Digestive system	Digestive system
+ENCFF765DRX	ENCFF765DRX	ENCFF765DRX	ENCBS185KVE	ENCSR670REK	UBERON:0004550	Gastroesophageal sphincter	Esophagus	Esophagus	Digestive system	Digestive system
+ENCFF906UQF	ENCFF906UQF	ENCFF906UQF	ENCBS410KPZ	ENCSR117PYB	UBERON:0002084	Heart left ventricle	Heart	Heart	Circulatory system	Circulatory system
+ENCFF310VHO	ENCFF310VHO	ENCFF310VHO	ENCBS106FXL	ENCSR851EBF	UBERON:0002084	Heart left ventricle	Heart	Heart	Circulatory system	Circulatory system
+ENCFF733PNQ	ENCFF733PNQ	ENCFF733PNQ	ENCBS971HUW	ENCSR788TRR	UBERON:0010414	Omental fat pad	Adipose	Adipose	Digestive system	Digestive system
+ENCFF780JBA	ENCFF780JBA	ENCFF780JBA	ENCBS165BJP	ENCSR490MSG	UBERON:0000992	Ovary	Ovary	Ovary	Reproductive system	Reproductive system
+ENCFF782KTJ	ENCFF782KTJ	ENCFF782KTJ	ENCBS877BPO	ENCSR017RQC	UBERON:0001211	Peyer's patch	Lymphatic tissue 	Lymphatic tissue 	Immune system	Immune system
+ENCFF682RLN	ENCFF682RLN	ENCFF682RLN	ENCBS502CUQ	ENCSR729FNL	UBERON:0022353	Posterior cingulate cortex	Brain	Brain	Nervous system	Nervous system
+ENCFF670GFY	ENCFF670GFY	ENCFF670GFY	ENCBS282GPE	ENCSR999NKW	UBERON:0002367	Prostate gland	Prostate	Prostate	Reproductive system	Reproductive system
+ENCFF469OER	ENCFF469OER	ENCFF469OER	ENCBS900DWT	ENCSR062SVK	UBERON:0006631	Right atrium auricular region	Right atrium auricular region	Right atrium auricular region	Circulatory system	Circulatory system
+ENCFF628MCV	ENCFF628MCV	ENCFF628MCV	ENCBS904HZU	ENCSR373TDL	UBERON:0001114	Right lobe of liver	Liver	Liver	Digestive system	Digestive system
+ENCFF778VJL	ENCFF778VJL	ENCFF778VJL	ENCBS345HRP	ENCSR086OGH	UBERON:0001159	Sigmoid colon	Large intestine	Large intestine	Digestive system	Digestive system
+ENCFF736KFN	ENCFF736KFN	ENCFF736KFN	ENCBS214RWK	ENCSR355SGJ	UBERON:0001159	Sigmoid colon	Large intestine	Large intestine	Digestive system	Digestive system
+ENCFF482HAC	ENCFF482HAC	ENCFF482HAC	ENCBS919RQL	ENCSR548QCP	UBERON:0001159	Sigmoid colon	Large intestine	Large intestine	Digestive system	Digestive system
+ENCFF692DLP	ENCFF692DLP	ENCFF692DLP	ENCBS835BNK	ENCSR846VLJ	UBERON:0001159	Sigmoid colon	Large intestine	Large intestine	Digestive system	Digestive system
+ENCFF294ZCT	ENCFF294ZCT	ENCFF294ZCT	ENCBS214FBD	ENCSR078EBD	UBERON:0002106	Spleen	Spleen	Spleen	Circulatory system	Circulatory system
+ENCFF069SZE	ENCFF069SZE	ENCFF069SZE	ENCBS296KUN	ENCSR337UIU	UBERON:0000945	Stomach	Stomach	Stomach	Digestive system	Digestive system
+ENCFF675QOY	ENCFF675QOY	ENCFF675QOY	ENCBS424ANS	ENCSR851SBY	UBERON:0000945	Stomach	Stomach	Stomach	Digestive system	Digestive system
+ENCFF159RKV	ENCFF159RKV	ENCFF159RKV	ENCBS108OCK	ENCSR540BML	UBERON:0002190	Subcutaneous adipose tissue	Adipose	Adipose	Digestive system	Digestive system
+ENCFF048IOT	ENCFF048IOT	ENCFF048IOT	ENCBS133MOQ	ENCSR210NKB	UBERON:0000473	Testis	Testis	Testis	Reproductive system	Reproductive system
+ENCFF984OPE	ENCFF984OPE	ENCFF984OPE	ENCBS532TUO	ENCSR344ZTM	UBERON:0001515	Thoracic aorta	Thoracic aorta	Thoracic aorta	Circulatory system	Circulatory system
+ENCFF608BWH	ENCFF608BWH	ENCFF608BWH	ENCBS413MJK	ENCSR201FIW	UBERON:0002046	Thyroid gland	Thyroid gland	Thyroid gland	Endocrine system	Endocrine system
+ENCFF710ELD	ENCFF710ELD	ENCFF710ELD	ENCBS995JJM	ENCSR474XFV	UBERON:0002046	Thyroid gland	Thyroid gland	Thyroid gland	Endocrine system	Endocrine system
+ENCFF105ASY	ENCFF105ASY	ENCFF105ASY	ENCBS362EWE	ENCSR914DTI	UBERON:0002046	Thyroid gland	Thyroid gland	Thyroid gland	Endocrine system	Endocrine system
+ENCFF168OTV	ENCFF168OTV	ENCFF168OTV	ENCBS923QEI	ENCSR630REB	UBERON:0007610	Tibial artery	Tibial artery	Tibial artery	Circulatory system	Circulatory system
+ENCFF277DNH	ENCFF277DNH	ENCFF277DNH	ENCBS689AWK	ENCSR831KAH	UBERON:0001323	Tibial nerve	Tibial nerve	Tibial nerve	Nervous system	Nervous system
+ENCFF912PKL	ENCFF912PKL	ENCFF912PKL	ENCBS360EPF	ENCSR386HAZ	UBERON:0001157	Transverse colon	Large intestine	Large intestine	Digestive system	Digestive system
+ENCFF845HFA	ENCFF845HFA	ENCFF845HFA	ENCBS659AMF	ENCSR404LLJ	UBERON:0001157	Transverse colon	Large intestine	Large intestine	Digestive system	Digestive system
+ENCFF377DAO	ENCFF377DAO	ENCFF377DAO	ENCBS572ESP	ENCSR668VCT	UBERON:0001157	Transverse colon	Large intestine	Large intestine	Digestive system	Digestive system
+ENCFF325VEG	ENCFF325VEG	ENCFF325VEG	ENCBS866IBT	ENCSR761TKU	UBERON:0001157	Transverse colon	Large intestine	Large intestine	Digestive system	Digestive system

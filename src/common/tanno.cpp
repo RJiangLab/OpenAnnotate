@@ -1,0 +1,29 @@
+#include <cstdio>
+#include <cstdlib>
+#include <string>
+#include <vector>
+#include <queue>
+#include <map>
+#include <set>
+#include <sys/types.h> 
+#include <sys/wait.h> 
+#include <sys/stat.h>
+#include <pthread.h>
+#include <dirent.h>
+#include <unistd.h> 
+#include <memory.h>
+#include <malloc.h>
+#include <lz4.h>
+#include <lz4hc.h>
+#include <bzlib.h>
+#include <zlib.h>
+#include <lzma.h>
+#include "iopts.h"
+#include "ipipe.h"
+#include "ianno.h"
+#include "icomp.h"
+#include "topts.h"
+#include "ecomp.h"
+#include "tanno.h"
+
+int TAnno::nthread = 0;
